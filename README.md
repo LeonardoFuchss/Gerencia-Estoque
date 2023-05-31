@@ -4,6 +4,8 @@ Este é um programa simples de gerenciamento de estoque em Java. Ele permite cad
 
 
 
+
+
 FUNCIONALIDADES
 
 Cadastro de Produtos: Permite cadastrar um novo produto fornecendo o nome, código, valor de custo e valor de venda.
@@ -22,6 +24,8 @@ Sair: Encerra o programa.
 
 
 
+
+
 COMO USAR
 
 Execute o programa.
@@ -35,6 +39,8 @@ Siga as instruções fornecidas pelo programa para realizar as operações desej
 Ao concluir uma operação, pressione Enter para voltar ao menu.
 
 Para encerrar o programa, escolha a opção "Sair".
+
+
 
 
 
