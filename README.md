@@ -3,7 +3,7 @@ GERÊNCIADOR DE ESTOQUE:
 Este é um programa simples de gerenciamento de estoque em Java. Ele permite cadastrar produtos, remover produtos, exibir a quantidade total de produtos cadastrados, calcular o valor total de custo dos produtos em estoque, calcular o valor total de venda dos produtos em estoque e calcular o lucro em estoque.
 
 
-===================================================================================================================================================================
+============================================================================================================
 
 
 FUNCIONALIDADES:
@@ -23,7 +23,7 @@ Lucro em Estoque: Calcula e exibe o lucro em estoque, fornecendo o valor total d
 Sair: Encerra o programa.
 
 
-====================================================================================================================================================================
+===========================================================================================================
 
 
 COMO USAR
@@ -41,7 +41,7 @@ Ao concluir uma operação, pressione Enter para voltar ao menu.
 Para encerrar o programa, escolha a opção "Sair".
 
 
-===================================================================================================================================================================
+============================================================================================================
 
 
 CONTRIBUIÇÃO
