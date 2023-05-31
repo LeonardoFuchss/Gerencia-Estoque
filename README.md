@@ -1,9 +1,11 @@
 GERÊNCIADOR DE ESTOQUE 
+
 Este é um programa simples de gerenciamento de estoque em Java. Ele permite cadastrar produtos, remover produtos, exibir a quantidade total de produtos cadastrados, calcular o valor total de custo dos produtos em estoque, calcular o valor total de venda dos produtos em estoque e calcular o lucro em estoque.
 
 
 
 FUNCIONALIDADES
+
 Cadastro de Produtos: Permite cadastrar um novo produto fornecendo o nome, código, valor de custo e valor de venda.
 
 Remoção de Produtos: Permite remover um produto do estoque fornecendo o código do produto.
@@ -21,6 +23,7 @@ Sair: Encerra o programa.
 
 
 COMO USAR
+
 Execute o programa.
 
 Será exibido um menu com as opções disponíveis.
@@ -36,6 +39,7 @@ Para encerrar o programa, escolha a opção "Sair".
 
 
 CONTRIBUIÇÃO
+
 Este programa foi desenvolvido para fins educacionais e pode ser aprimorado e personalizado conforme suas necessidades. Sinta-se à vontade para fazer alterações, adicionar novas funcionalidades ou corrigir quaisquer problemas. Se você quiser contribuir, siga as etapas abaixo:
 
 Faça um fork deste repositório.
